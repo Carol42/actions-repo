@@ -1,4 +1,4 @@
-name: Update productive gist
+name: Productivity Gist
 on:
   repository_dispatch:
     types: [build-event]
