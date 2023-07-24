@@ -1,0 +1,18 @@
+name: Activity Gist
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v1
+      - uses: JasonEtco/activity-box@master
+        env:
+          GH_PAT: ${{ secrets.GIST_TK }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: ${{ secrets.GH_USERNAME }}
+          GIST_ID: ${{ secrets.ACTIVITY_GIST }}
