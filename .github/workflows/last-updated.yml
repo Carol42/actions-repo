@@ -1,0 +1,30 @@
+name: last updated
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  update_templates:
+    name: "Update Markdown Files"
+    runs-on: ubuntu-latest
+    steps:
+      - name: "📥 Update GitHub Readme files"
+        uses: actions/checkout@main
+      - name: Update README.md
+        run: |
+          python update-readme.py
+      - name: pull-request
+        uses: repo-sync/pull-request@v2
+        with:
+          destination_branch: "main"
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: commit
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "README updated" -a
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
