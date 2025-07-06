@@ -2,5 +2,5 @@
 <p align="center"><a href="https://www.last.fm/music/Metallica/Hardwired%E2%80%A6To+Self-Destruct+(Deluxe)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/a26f4d91949b80b56d4719d0644fde54.jpg" title="Metallica - Hardwired…To Self-Destruct (Deluxe)"></a> <a href="https://www.last.fm/music/Avantasia/Lost+in+Space+(Pt.+1+&+Pt.+2)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/24930ed369900bee195b172a749ad4d7.jpg" title="Avantasia - Lost in Space (Pt. 1 & Pt. 2)"></a> <a href="https://www.last.fm/music/Avantasia/The+Scarecrow"><img src="https://lastfm.freetls.fastly.net/i/u/64s/d4e3d4f0fc54e4d7a351f9cb3f328929.jpg" title="Avantasia - The Scarecrow"></a> <a href="https://www.last.fm/music/The+Beatles/Rubber+Soul+(Remastered+2009)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/01d7f40bb40cef0e86251d491542943b.png" title="The Beatles - Rubber Soul (Remastered 2009)"></a> </p>
 
 <!--START_SECTION:last-updated-->
-Last updated: 2025-07-05 00:54:39.817520
+Last updated: 2025-07-06 01:02:19.649896
 <!--END_SECTION:last-updated-->
