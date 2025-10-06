@@ -2,5 +2,5 @@
 <p align="center"><a href="https://www.last.fm/music/Iron+Maiden/The+Number+of+the+Beast+(2015+remaster)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/0673467a6af29e9130e229a7407ace50.jpg" title="Iron Maiden - The Number of the Beast (2015 remaster)"></a> <a href="https://www.last.fm/music/Accept/Restless+and+Wild"><img src="https://lastfm.freetls.fastly.net/i/u/64s/0915bf8e6c90df8c2c9110b16b493271.jpg" title="Accept - Restless and Wild"></a> <a href="https://www.last.fm/music/Blind+Guardian/Tales+From+The+Twilight+World+(Remastered+2007)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/ba7ffddf857ec7f02d17f21baeb5aa44.jpg" title="Blind Guardian - Tales From The Twilight World (Remastered 2007)"></a> <a href="https://www.last.fm/music/Blind+Guardian/The+God+Machine"><img src="https://lastfm.freetls.fastly.net/i/u/64s/43e63f642cbe3ff050416bc4970bca0e.png" title="Blind Guardian - The God Machine"></a> <a href="https://www.last.fm/music/Edguy/Mandrake"><img src="https://lastfm.freetls.fastly.net/i/u/64s/3bfe75cd6285bac4b7a2759fc576375b.jpg" title="Edguy - Mandrake"></a> </p>
 
 <!--START_SECTION:last-updated-->
-Last updated: 2025-10-05 00:55:56.508314
+Last updated: 2025-10-06 00:52:28.754545
 <!--END_SECTION:last-updated-->
