@@ -2,5 +2,5 @@
 <p align="center"><a href="https://www.last.fm/music/Iron+Maiden/The+Number+of+the+Beast+(2015+remaster)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/0673467a6af29e9130e229a7407ace50.jpg" title="Iron Maiden - The Number of the Beast (2015 remaster)"></a> <a href="https://www.last.fm/music/Gloria+Groove/V%C3%ADcio"><img src="https://lastfm.freetls.fastly.net/i/u/64s/8c5c78153a142f1206bbb5e9f25cc8a8.jpg" title="Gloria Groove - Vício"></a> <a href="https://www.last.fm/music/Accept/Balls+to+the+Wall"><img src="https://lastfm.freetls.fastly.net/i/u/64s/590a469992b829dbb5aff47671ffd3cf.jpg" title="Accept - Balls to the Wall"></a> <a href="https://www.last.fm/music/Megadeth/Youthanasia"><img src="https://lastfm.freetls.fastly.net/i/u/64s/cee85a6ae55fad91fff6b91db4f35417.jpg" title="Megadeth - Youthanasia"></a> <a href="https://www.last.fm/music/Pantera/Cowboys+From+Hell"><img src="https://lastfm.freetls.fastly.net/i/u/64s/bf7207240ac7461dbdf0ee761f96b701.png" title="Pantera - Cowboys From Hell"></a> </p>
 
 <!--START_SECTION:last-updated-->
-Last updated: 2025-11-17 00:56:28.479021
+Last updated: 2025-11-18 00:55:06.544917
 <!--END_SECTION:last-updated-->
